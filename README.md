@@ -1,6 +1,6 @@
 ## Hi, my name is Julio Nunes!
-I'am a student of Programation Front-end and Back-end
-I like it! ❤👩‍💻
+## I'am a student of Programation Front-end and Back-end
+## I like it! ❤👩‍💻
 
 <div align="center" display="flex">
   <a href="https://github.com/JulioNunesDev">
