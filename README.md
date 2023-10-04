@@ -7,6 +7,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JulioNunesDev&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JulioNunesDev&theme=tokyonight&utcOffset=8)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JulioNunesDev&theme=tokyonight)
+
 <div align="center" display="flex">
   <a href="https://github.com/JulioNunesDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioNunesDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
