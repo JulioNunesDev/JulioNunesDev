@@ -5,6 +5,7 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JulioNunesDev&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JulioNunesDev&theme=tokyonight&utcOffset=8)
 
 <div align="center" display="flex">
   <a href="https://github.com/JulioNunesDev">
