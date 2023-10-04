@@ -4,11 +4,7 @@
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JulioNunesDev&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JulioNunesDev&theme=tokyonight&utcOffset=8)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JulioNunesDev&theme=tokyonight&include_all_commits=true&count_private=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JulioNunesDev&theme=tokyonight)
 
 <div align="center" display="flex">
   <a href="https://github.com/JulioNunesDev">
