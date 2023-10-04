@@ -4,7 +4,7 @@
 
 
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JulioNunesDev&theme=tokyonight)
 
 <div align="center" display="flex">
   <a href="https://github.com/JulioNunesDev">
