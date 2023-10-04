@@ -3,7 +3,11 @@
 ## I like it! ❤👩‍💻
 
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JulioNunesDev&theme=tokyonight&utcOffset=8
+  [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JulioNunesDev&theme=tokyonight&utcOffset=8
+
+____________________________________________________
+  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wasleyfps&theme=tokyonight&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wasleyfps&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+ | ----------- | ----------- |
 
 
 <div align="center" display="flex">
