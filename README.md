@@ -2,6 +2,9 @@
 ## I'am a student of Programation Front-end and Back-end
 ## I like it! ❤👩‍💻
 
+
+  ![Status](./profile-3d-contrib/profile-night-green.svg)
+
 <div align="center" display="flex">
   <a href="https://github.com/JulioNunesDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioNunesDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
