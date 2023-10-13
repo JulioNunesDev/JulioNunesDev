@@ -14,12 +14,8 @@ I'm a passionate student of both front-end and back-end programming, exploring t
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/julionunesdev/).
 
 I'm excited to learn and grow in the ever-evolving world of programming. Let's connect and share knowledge! 👨‍💻✨
-
-
-[<img src="https://avatars.githubusercontent.com/u/78341732?v=4" width=115 > <br> <sub> Julio Nunes </sub>](https://github.com/JulioNunesDev) |
-| :---: | 
-
-
+<br/>
+<br/>
 
 
 <div align="center" >
@@ -31,6 +27,7 @@ I'm excited to learn and grow in the ever-evolving world of programming. Let's c
 </div>
 
 <br/>
+<br/>
 
 <div align="center" style="padding: 20px;">
   <a href="https://github.com/JulioNunesDev">
@@ -40,6 +37,9 @@ I'm excited to learn and grow in the ever-evolving world of programming. Let's c
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioNunesDev&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
+
+<br/>
+<br/>
 
 <div align="center" style="padding: 20px;">
   <a href="https://www.youtube.com/channel/UCYg9lp2ah0_4x1G8Fitf6aw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
