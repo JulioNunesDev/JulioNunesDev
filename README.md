@@ -14,14 +14,6 @@ I'm excited to learn and grow in the ever-evolving world of programming. Let's c
 
 
 
-<div align="center" style="padding: 20px;">
-  <a href="https://github.com/JulioNunesDev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioNunesDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/JulioNunesDev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioNunesDev&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
 
 <div align="center" >
   <img align="center" alt="julio-Js"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,6 +21,15 @@ I'm excited to learn and grow in the ever-evolving world of programming. Let's c
   <img align="center" alt="julio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="julio-HTML"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="MUI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
+</div>
+
+<div align="center" style="padding: 20px;">
+  <a href="https://github.com/JulioNunesDev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioNunesDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/JulioNunesDev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioNunesDev&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
 
 <div align="center" style="padding: 20px;">
