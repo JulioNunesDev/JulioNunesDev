@@ -13,7 +13,7 @@ I'm a passionate student of both front-end and back-end programming, exploring t
 I'm excited to learn and grow in the ever-evolving world of programming. Let's connect and share knowledge! 👨‍💻✨
 
 
-[<img src="https://avatars.githubusercontent.com/u/78341732?v=4" width=115 > <br> <sub> Diana Regina </sub>](https://github.com/JulioNunesDev) |
+[<img src="https://avatars.githubusercontent.com/u/78341732?v=4" width=115 > <br> <sub> Julio Nunes </sub>](https://github.com/JulioNunesDev) |
 
 
 
