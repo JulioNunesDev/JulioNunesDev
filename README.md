@@ -1,6 +1,17 @@
-## Hi, my name is Julio Nunes!
-## I'am a student of Programation Front-end and Back-end
-## I like it! ❤👩‍💻
+# 👋 Hello, I'm Julio Nunes!
+
+## About Me
+I'm a passionate student of both front-end and back-end programming, exploring the fascinating world of web development. 💻❤
+
+## What I Do
+- 🌐 Front-end: Crafting beautiful and interactive user interfaces that captivate users.
+- 🖥️ Back-end: Architecting server-side logic to power web applications and services.
+
+## Get in Touch
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/julionunesdev/).
+
+I'm excited to learn and grow in the ever-evolving world of programming. Let's connect and share knowledge! 👨‍💻✨
+
 
 <div align="center" display="flex">
   <a href="https://github.com/JulioNunesDev">
