@@ -3,7 +3,6 @@
 [<img src="https://avatars.githubusercontent.com/u/78341732?v=4" width=115 > <br> <sub> Julio Nunes </sub>](https://github.com/JulioNunesDev) |
 | :---: |
 ![GitHub Org's stars](https://img.shields.io/github/stars/JulioNunesDev?style=social)
-![GitHub Org's stars](https://img.shields.io/github/repositories/JulioNunesDev?style=social)
 
 ## About Me
 I'm a passionate student of both front-end and back-end programming, exploring the fascinating world of web development. 💻❤
