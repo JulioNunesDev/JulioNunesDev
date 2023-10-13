@@ -30,6 +30,8 @@ I'm excited to learn and grow in the ever-evolving world of programming. Let's c
   <img align="center" alt="MUI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
 </div>
 
+<br/>
+
 <div align="center" style="padding: 20px;">
   <a href="https://github.com/JulioNunesDev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioNunesDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
