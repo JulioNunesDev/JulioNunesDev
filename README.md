@@ -14,6 +14,7 @@ I'm excited to learn and grow in the ever-evolving world of programming. Let's c
 
 
 [<img src="https://avatars.githubusercontent.com/u/78341732?v=4" width=115 > <br> <sub> Julio Nunes </sub>](https://github.com/JulioNunesDev) |
+| :---: | 
 
 
 
