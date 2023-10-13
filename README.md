@@ -21,7 +21,7 @@ I'm excited to learn and grow in the ever-evolving world of programming. Let's c
   </a>
 </div>
 
-<div style="display: flex; align-items: center;">
+<div align="center">
   <img align="center" alt="julio-Js"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="julio-Ts"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="julio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
