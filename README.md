@@ -24,7 +24,7 @@ I'm excited to learn and grow in the ever-evolving world of programming. Let's c
 
 ##
 
-<div align="center">
+<div align="center"  padding="20">
   <a href="https://www.youtube.com/channel/UCYg9lp2ah0_4x1G8Fitf6aw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/julionunesyt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/4NzNYkpBAP" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
