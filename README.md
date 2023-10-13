@@ -12,14 +12,7 @@ I'm a passionate student of both front-end and back-end programming, exploring t
 
 I'm excited to learn and grow in the ever-evolving world of programming. Let's connect and share knowledge! 👨‍💻✨
 
-<div align="center">
-  <a href="https://github.com/JulioNunesDev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioNunesDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/JulioNunesDev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioNunesDev&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
+
 
 <div align="center" marginTop="50px">
   <img align="center" alt="julio-Js"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -38,3 +31,12 @@ I'm excited to learn and grow in the ever-evolving world of programming. Let's c
   <a href="https://www.linkedin.com/in/julio-nunes-de-oliveira-b6b40721a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+
+<div align="center">
+  <a href="https://github.com/JulioNunesDev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioNunesDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/JulioNunesDev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioNunesDev&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
