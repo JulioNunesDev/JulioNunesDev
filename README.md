@@ -10,6 +10,7 @@ I'm a passionate student of both front-end and back-end programming, exploring t
 ## What I Do
 - 🌐 Front-end: Crafting beautiful and interactive user interfaces that captivate users.
 - 🖥️ Back-end: Architecting server-side logic to power web applications and services.
+- 🎮 Jogos (Game Development): Designing immersive gaming experiences.
 
 ## Get in Touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/julionunesdev/).
