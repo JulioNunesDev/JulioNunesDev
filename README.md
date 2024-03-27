@@ -5,7 +5,7 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/JulioNunesDev?style=social)
 
 ## About Me
-I'm a passionate student of both front-end and back-end programming, exploring the fascinating world of web development. 💻❤
+I'm a passionate student of both front-end and back-end programming, exploring the fascinating world of web development, while also delving into the exciting realm of Unreal Engine for game development. 💻❤
 
 ## What I Do
 - 🌐 Front-end: Crafting beautiful and interactive user interfaces that captivate users.
