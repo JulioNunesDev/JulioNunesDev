@@ -132,7 +132,7 @@
   <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
-<a href="https://discord.gg/4NzNYkpBAP">
+<a href="https://discord.gg/QCR8ZucAWc">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
