@@ -1,6 +1,6 @@
 # 🚀 About Me
 
-💡 Software engineer focused on multiplayer architecture, backend systems and realtime networking.
+💡 Senior software engineer focused on multiplayer architecture, backend systems and realtime networking.
 
 🎮 Specialized in Unreal Engine 5 multiplayer development, gameplay systems and replication architecture.
 
@@ -142,7 +142,7 @@
 
 <div align="center">
 
-### ⚡ Building scalable systems, multiplayer experiences and engineering solutions.
+### ⚡ Senior engineer building scalable systems, multiplayer experiences and engineering solutions.
 
 </div>
 
