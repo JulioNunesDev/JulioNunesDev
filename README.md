@@ -1,57 +1,54 @@
-# 👋 Hello, I'm Julio Nunes!
+<div align="center">
 
-[<img src="https://avatars.githubusercontent.com/u/78341732?v=4" width=115 > <br> <sub> Julio Nunes </sub>](https://github.com/JulioNunesDev) |
-| :---: |
-![GitHub Org's stars](https://img.shields.io/github/stars/JulioNunesDev?style=social)
+# 👨‍💻 Julio Nunes
 
-## About Me
-I'm a passionate student of both front-end and back-end programming, exploring the fascinating world of web development, while also delving into the exciting realm of Unreal Engine for game development. 💻❤
+### Senior Unreal Engine 5 Multiplayer Developer • Backend Engineer • Creative Builder
 
-## What I Do
-- 🌐 Front-end: Crafting beautiful and interactive user interfaces that captivate users.
-- 🖥️ Back-end: Architecting server-side logic to power web applications and services.
-- 🎮 Jogos (Game Development): Designing immersive gaming experiences.
-
-## Get in Touch
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/julionunesdev/).
-
-I'm excited to learn and grow in the ever-evolving world of programming. Let's connect and share knowledge! 👨‍💻✨
-<br/>
-<br/>
-
-
-<div align="center" >
-  <img align="center" alt="julio-Js"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="julio-Js"  height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="julio-Ts"  height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="julio-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="julio-HTML"  height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="MUI" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
-  <img align="center"  alt="MUI" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
-  <img align="center"  alt="MUI" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center"  alt="MUI" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center"  alt="MUI" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-</div>
-
-<br/>
-<br/>
-
-<div align="center" style="padding: 20px;">
+<p>
   <a href="https://github.com/JulioNunesDev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioNunesDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Unreal+Engine+5+Multiplayer+Developer;Backend+Engineer;C%2B%2B+%7C+Java+%7C+Node.js+%7C+TypeScript;Building+Games%2C+Systems+and+Experiences;Always+Learning+New+Technologies" alt="Typing SVG" />
   </a>
-  <a href="https://github.com/JulioNunesDev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioNunesDev&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+</p>
+
+<a href="https://github.com/JulioNunesDev">
+  <img src="https://img.shields.io/github/followers/JulioNunesDev?style=for-the-badge&color=00bfff">
+</a>
+
+<a href="https://github.com/JulioNunesDev">
+  <img src="https://img.shields.io/github/stars/JulioNunesDev?style=for-the-badge&color=7b68ee">
+</a>
+
+<a href="https://www.linkedin.com/in/julionunesdev/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://julionunesdev.lovable.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel">
+</a>
+
 </div>
 
-<br/>
-<br/>
+---
 
-<div align="center" style="padding: 20px;">
-  <a href="https://www.youtube.com/channel/UCZJppsz5Anj6Ad0aqeDG9Bw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/julionunesyt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/4NzNYkpBAP" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/JulioNunesDev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+# 🚀 About Me
 
+```cpp
+class JulioNunes {
+    
+    string role = "Senior Unreal Engine 5 Developer";
+    
+    vector<string> focus = {
+        "Multiplayer Systems",
+        "Backend Architecture",
+        "Game Development",
+        "Realtime Networking",
+        "Creative Web Experiences"
+    };
+
+    vector<string> currentLearning = {
+        "Advanced System Design",
+        "Web Animations",
+        "AI Workflows",
+        "Scalable Backend"
+    };
+};
