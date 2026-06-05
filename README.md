@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👨‍💻 Julio Nunes
+# ⚡ Julio Nunes
 
-### Senior Unreal Engine 5 Multiplayer Developer • Backend Engineer • Creative Builder
+### Senior Multiplayer Engineer • Unreal Engine 5 Developer • Backend Architect
 
 <p>
   <a href="https://github.com/JulioNunesDev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Unreal+Engine+5+Multiplayer+Developer;Backend+Engineer;C%2B%2B+%7C+Java+%7C+Node.js+%7C+TypeScript;Building+Games%2C+Systems+and+Experiences;Always+Learning+New+Technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Senior+Unreal+Engine+5+Multiplayer+Developer;Gameplay+Systems+%26+Networking+Engineer;Backend+Architecture+%7C+Distributed+Systems;C%2B%2B+%7C+Java+%7C+Node.js+%7C+TypeScript;Realtime+Systems+%7C+Scalable+Infrastructure;Building+Games%2C+Systems+and+Interactive+Experiences" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,36 +19,60 @@
 </a>
 
 <a href="https://www.linkedin.com/in/julionunesdev/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://julionunesdev.lovable.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel">
+  <img src="https://img.shields.io/badge/Interactive%20Portfolio-000000?style=for-the-badge&logo=vercel">
 </a>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 🧠 Engineering Profile
 
 ```cpp
-class JulioNunes {
-    
-    string role = "Senior Unreal Engine 5 Developer";
-    
-    vector<string> focus = {
-        "Multiplayer Systems",
+class JulioNunes : public MultiplayerEngineer
+{
+private:
+
+    std::string specialization = 
+        "Unreal Engine 5 Multiplayer Architecture";
+
+    std::vector<std::string> coreExpertise =
+    {
+        "Gameplay Systems",
+        "Replication",
+        "RPC Communication",
+        "Network Optimization",
         "Backend Architecture",
-        "Game Development",
-        "Realtime Networking",
-        "Creative Web Experiences"
+        "Realtime Multiplayer",
+        "Scalable Systems Design",
+        "Server Authority Models"
     };
 
-    vector<string> currentLearning = {
-        "Advanced System Design",
-        "Web Animations",
-        "AI Workflows",
-        "Scalable Backend"
+    std::vector<std::string> technologies =
+    {
+        "C++",
+        "Unreal Engine 5",
+        "Java",
+        "Spring Boot",
+        "Node.js",
+        "TypeScript",
+        "MongoDB",
+        "PostgreSQL",
+        "Redis",
+        "Docker"
     };
+
+public:
+
+    void build()
+    {
+        DevelopScalableSystems();
+        OptimizeNetworking();
+        CreateGameplayExperiences();
+        StudyComputerScience();
+    }
 };
