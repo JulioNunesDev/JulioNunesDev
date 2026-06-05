@@ -1,78 +1,149 @@
+# 🚀 About Me
+
+💡 Software engineer focused on multiplayer architecture, backend systems and realtime networking.
+
+🎮 Specialized in Unreal Engine 5 multiplayer development, gameplay systems and replication architecture.
+
+⚡ Building scalable backend solutions, reusable plugins and high performance systems.
+
+🌐 Exploring modern interactive web experiences, UI animation and creative development workflows.
+
+---
+
+# 🧠 Passionate About
+
+- Software Engineering
+- Distributed Systems
+- Multiplayer Networking
+- Game Architecture
+- Backend Infrastructure
+- AI Workflows
+- Computer Graphics
+- Applied Mathematics
+
+---
+
+# 🧩 Featured Engineering Work
+
+## 🎮 Unreal Engine Plugin Development
+
+- Modular gameplay systems
+- Reusable multiplayer architecture
+- Replication-focused tooling
+- UE5 workflow optimization
+- Custom gameplay frameworks
+- Backend integration systems
+
+## ⚡ Backend & Systems
+
+- REST APIs
+- Authentication systems
+- Realtime communication
+- Scalable backend architecture
+- Database modeling
+- System design patterns
+
+---
+
+# ⚙️ Core Stack
+
 <div align="center">
 
-# ⚡ Julio Nunes
+## 🎮 Game Development
 
-### Senior Multiplayer Engineer • Unreal Engine 5 Developer • Backend Architect
+<img src="https://skillicons.dev/icons?i=cpp,unreal,blender"/>
 
-<p>
-  <a href="https://github.com/JulioNunesDev">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Senior+Unreal+Engine+5+Multiplayer+Developer;Gameplay+Systems+%26+Networking+Engineer;Backend+Architecture+%7C+Distributed+Systems;C%2B%2B+%7C+Java+%7C+Node.js+%7C+TypeScript;Realtime+Systems+%7C+Scalable+Infrastructure;Building+Games%2C+Systems+and+Interactive+Experiences" alt="Typing SVG" />
-  </a>
-</p>
+---
 
-<a href="https://github.com/JulioNunesDev">
-  <img src="https://img.shields.io/github/followers/JulioNunesDev?style=for-the-badge&color=00bfff">
-</a>
+## 🌐 Frontend
 
-<a href="https://github.com/JulioNunesDev">
-  <img src="https://img.shields.io/github/stars/JulioNunesDev?style=for-the-badge&color=7b68ee">
-</a>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,vite"/>
+
+---
+
+## ⚡ Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mongodb,postgres,redis,docker"/>
+
+---
+
+## ☁️ DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,aws,firebase,vercel"/>
+
+</div>
+
+---
+
+# 🌍 Languages
+
+- 🇧🇷 Portuguese — Native
+- 🇺🇸 English — Professional Working Proficiency
+
+---
+
+# 🎯 Current Focus
+
+- 🎮 Unreal Engine 5 Multiplayer
+- ⚡ High Performance Backend
+- 🌐 Interactive Web Experiences
+- 🧩 Plugin Architecture
+- 🤖 AI Assisted Development
+- 🚀 Scalable Distributed Systems
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioNunesDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioNunesDev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JulioNunesDev&theme=tokyo-night&hide_border=true"/>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=JulioNunesDev&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌎 Portfolio
+
+🚀 Interactive Portfolio  
+👉 https://julionunesdev.lovable.app
+
+---
+
+# 📫 Contact
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/julionunesdev/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://julionunesdev.lovable.app">
-  <img src="https://img.shields.io/badge/Interactive%20Portfolio-000000?style=for-the-badge&logo=vercel">
+<a href="https://www.instagram.com/julionunesyt">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://www.youtube.com/channel/UCZJppsz5Anj6Ad0aqeDG9Bw">
+  <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+<a href="https://discord.gg/4NzNYkpBAP">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-# 🧠 Engineering Profile
+<div align="center">
 
-```cpp
-class JulioNunes : public MultiplayerEngineer
-{
-private:
+### ⚡ Building scalable systems, multiplayer experiences and engineering solutions.
 
-    std::string specialization = 
-        "Unreal Engine 5 Multiplayer Architecture";
+</div>
 
-    std::vector<std::string> coreExpertise =
-    {
-        "Gameplay Systems",
-        "Replication",
-        "RPC Communication",
-        "Network Optimization",
-        "Backend Architecture",
-        "Realtime Multiplayer",
-        "Scalable Systems Design",
-        "Server Authority Models"
-    };
-
-    std::vector<std::string> technologies =
-    {
-        "C++",
-        "Unreal Engine 5",
-        "Java",
-        "Spring Boot",
-        "Node.js",
-        "TypeScript",
-        "MongoDB",
-        "PostgreSQL",
-        "Redis",
-        "Docker"
-    };
-
-public:
-
-    void build()
-    {
-        DevelopScalableSystems();
-        OptimizeNetworking();
-        CreateGameplayExperiences();
-        StudyComputerScience();
-    }
-};
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0ea5e9&height=120&section=footer"/>
