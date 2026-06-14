@@ -112,7 +112,7 @@
 # 🌎 Portfolio
 
 🚀 Interactive Portfolio  
-👉 https://julionunesdev.lovable.app
+👉 https://julionunesdev.com.br
 
 ---
 
